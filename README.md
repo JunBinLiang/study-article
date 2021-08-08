@@ -5,3 +5,4 @@
 
 ## Command
 [kill runing port](https://superuser.com/questions/1411293/how-to-kill-a-localhost8080) <br />
+[1hr Shell Script Tutorial](http://www.newthinktank.com/2016/06/shell-scripting-tutorial/) <br />
