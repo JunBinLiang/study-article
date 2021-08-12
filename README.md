@@ -7,6 +7,7 @@
 [Go Module Introduction](https://blog.golang.org/using-go-modules) <br />
 [Go Package](https://www.callicoder.com/golang-packages/) <br />
 [Go init() function](https://tutorialedge.net/golang/the-go-init-function/) <br />
+[Go Interface](https://gobyexample.com/interfaces) <br />
 
 ## Command
 [kill runing port](https://superuser.com/questions/1411293/how-to-kill-a-localhost8080) <br />
