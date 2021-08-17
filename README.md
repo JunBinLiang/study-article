@@ -9,7 +9,7 @@
 [Go init() function](https://tutorialedge.net/golang/the-go-init-function/) <br />
 [Go Interface](https://gobyexample.com/interfaces) <br />
 [Go Defer](https://gobyexample.com/defer) <br />
-
+[Go Waitgroup](https://tutorialedge.net/golang/go-waitgroup-tutorial/) <br />
 
 ## Command
 [kill runing port](https://superuser.com/questions/1411293/how-to-kill-a-localhost8080) <br />
