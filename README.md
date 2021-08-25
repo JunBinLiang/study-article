@@ -20,3 +20,4 @@
 
 ### Git
 [Some Git Error](https://blog.csdn.net/wsmrzx/article/details/115793236) <br />
+[Why Git Can not ignore ](https://stackoverflow.com/questions/45400361/why-is-gitignore-not-ignoring-my-files) <br />
