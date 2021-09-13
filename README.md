@@ -21,3 +21,4 @@
 ### Git
 [Some Git Error](https://blog.csdn.net/wsmrzx/article/details/115793236) <br />
 [Why Git Can not ignore ](https://stackoverflow.com/questions/45400361/why-is-gitignore-not-ignoring-my-files) <br />
+[List Remote Address](https://stackoverflow.com/questions/8816107/how-can-i-retrieve-the-remote-git-address-of-a-repo) <br />
