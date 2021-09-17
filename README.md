@@ -27,3 +27,5 @@
 
 ### Bakend Dev
 [How-is-a-notification-from-a-backend-server-implemented-in-a-mobile-app](https://www.quora.com/How-is-a-notification-from-a-backend-server-implemented-in-a-mobile-app) <br />
+
+[sending-push-notifications node.js](https://medium.com/weekly-webtips/sending-push-notifications-from-nodejs-backend-app-to-flutter-android-app-8a261c3c2c61) <br />
