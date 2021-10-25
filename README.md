@@ -12,6 +12,7 @@
 [Go Waitgroup](https://tutorialedge.net/golang/go-waitgroup-tutorial/) <br />
 [Go Mod version with Hash Commit](https://stackoverflow.com/questions/53682247/how-to-point-go-module-dependency-in-go-mod-to-a-latest-commit-in-a-repo) <br />
 [gofmt](https://www.youtube.com/watch?v=D2i9RWyFUC4) <br />
+[value vs pointer](https://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/) <br />
 
 ### Testing
 [Go Test](https://ieftimov.com/post/testing-in-go-go-test/) <br />
