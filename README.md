@@ -39,6 +39,8 @@
 ### System Design
 [DB Sharding](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6) <br />
 
+### OOD
+[Elevator](https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html) <br />
 
 ### Other
 [B Tree](http://www.btechsmartclass.com/data_structures/b-trees.html) <br />
