@@ -36,5 +36,9 @@
 [sending-push-notifications node.js](https://medium.com/weekly-webtips/sending-push-notifications-from-nodejs-backend-app-to-flutter-android-app-8a261c3c2c61) <br />
 [Push Notification Overview](https://web.dev/push-notifications-overview/#how) <br />
 
+### System Design
+[DB Sharding](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6) <br />
+
+
 ### Other
 [B Tree](http://www.btechsmartclass.com/data_structures/b-trees.html) <br />
