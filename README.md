@@ -42,3 +42,4 @@
 
 ### Other
 [B Tree](http://www.btechsmartclass.com/data_structures/b-trees.html) <br />
+[KB, MG, GB, TB](https://www.uswitch.com/broadband/guides/bits-and-bytes-explained/) <br />
