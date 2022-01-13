@@ -38,6 +38,7 @@
 
 ### System Design
 [DB Sharding](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6) <br />
+[DB Sharding JDBC](https://shardingsphere.apache.org/document/current/cn/features/sharding/use-norms/sql/) <br />
 
 ### OOD
 [Elevator](https://tedweishiwang.github.io/journal/object-oriented-design-elevator.html) <br />
