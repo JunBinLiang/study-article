@@ -38,6 +38,7 @@
 [Push Notification Overview](https://web.dev/push-notifications-overview/#how) <br />
 
 ### System Design
+[System Design Guide](https://www.freecodecamp.org/news/systems-design-for-interviews/) <br />
 [DB Sharding 1](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6) <br />
 [DB Sharding 2 ](https://www.digitalocean.com/community/tutorials/understanding-database-sharding) <br />
 [DB Sharding JDBC](https://shardingsphere.apache.org/document/current/cn/features/sharding/use-norms/sql/) <br />
